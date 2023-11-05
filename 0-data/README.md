@@ -1,6 +1,6 @@
 # Data
 
-Overview of the datasets and data files.
+Overview of the paper’s datasets and files.
 
 - [`datasets.csv`](datasets.csv): Table documenting all the datasets used in the study.
 - [`lightsheet-lateral`](lightsheet-lateral): Timelapse recordings of embryos in lateral view acquired in the lightsheet.
