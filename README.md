@@ -3,6 +3,12 @@
 DAFT is a minimal set of principles to improve the reproducibility of research papers.
 This repository contains a template showing how to organize your data, analyses, and other source files of your manuscript.
 
+**Principles:**
+
+- Use DAFT-numbered directories (structure)
+- Add one README per folder (documentation)
+- Follow a self-contained pipeline (flow)
+
 ## Directories
 
 - [`0-data`](0-data): Data files used in the study.
