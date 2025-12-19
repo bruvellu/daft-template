@@ -1,17 +1,15 @@
 # DAFT template
 
-DAFT is a minimal set of principles to improve the reproducibility of research papers.
-This repository contains a template showing how to organize your data, analyses, and other source files of your manuscript.
-
-**Principles:**
+DAFT is a minimal set of principles to make research papers more reproducible.
+This repository contains a template showing how to organize your data, analyses, figures, and text files of your manuscript according to the **DAFT principles**:
 
 - Use DAFT-numbered directories (structure)
-- Add one README per folder (documentation)
-- Follow a self-contained pipeline (flow)
+- Follow a self-contained data flow (workflow)
+- Add one README per subdirectory (documentation)
 
 ## Directories
 
-- [`0-data`](0-data): Data files used in the study.
+- [`0-data`](0-data): Raw data and datasets associated with the study.
 - [`1-analyses`](1-analyses): Script files and outputs of individual analyses.
-- [`2-figures`](2-figures): Source figure files for figure plates.
-- [`3-text`](3-text): Source text files for final manuscript.
+- [`2-figures`](2-figures): Source files for figure plates.
+- [`3-text`](3-text): Source files for the manuscript text.
