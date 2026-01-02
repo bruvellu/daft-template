@@ -1,9 +1,9 @@
-# 🗂️ DAFT Principles template
+# 🗂️ DAFT template for research papers
+
+![](daft.png)
 
 DAFT is a minimal set of principles to make research papers more reproducible.
 This repository contains a template showing how to organize your manuscript files according to the [**DAFT Principles**](https://brunovellutini.com/posts/daft-principles):
-
-![](daft.png)
 
 - Use DAFT-numbered directories (structure)
 - Follow a self-contained data flow (workflow)
