@@ -1,0 +1,22 @@
+{
+    "upload_type": "software",
+    "title": "DAFT template for research papers",
+    "description": "DAFT is a minimal set of principles to make research papers more reproducible. This repository contains a template showing how to organize your manuscript files according to the <a href=\"https://evodevo.brunovellutini.com/\">DAFT Principles</a>: 1) Use DAFT-numbered directories (structure), 2) Follow a self-contained data flow (workflow), 3) Add one README per subdirectory (documentation).",
+    "creators": [
+        {
+            "name": "Vellutini, Bruno C.",
+            "orcid": "0000-0002-0000-9465",
+            "affiliation": [
+                "Max Planck Institute of Molecular Cell Biology and Genetics",
+                "Universidade Federal de Minas Gerais"
+            ]
+        }
+    ],
+    "publication_date": "2026-01-15",
+    "keywords": [
+        "Reproducibility",
+        "FAIR",
+        "Template",
+        "Data Management"
+    ]
+}
